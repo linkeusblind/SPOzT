@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.figma-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+}
+
+.presentation {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10vh;
+    text-decoration: none;
+}
